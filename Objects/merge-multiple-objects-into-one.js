@@ -1,3 +1,5 @@
+// merge multipe objects into one
+
 let defaultUser = {
   name: '',
   email: '',
