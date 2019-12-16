@@ -8,7 +8,7 @@ I am improving my javascript skill everyday and here are some cool cheats I find
 - Arrays
 - Functions
 - Strings
-- Math Op & Numbers
+- Operations & Numbers
 
 
 Feel free to clone, fork or contribute to this repo!
